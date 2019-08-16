@@ -1,0 +1,22 @@
+{
+  "name": "js-data-structures-playground",
+  "version": "1.0.0",
+  "description": "Tests made while practicing  js data structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelcandidoferreira/js-data-structures-playground.git"
+  },
+  "author": "Marcel Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelcandidoferreira/js-data-structures-playground/issues"
+  },
+  "homepage": "https://github.com/marcelcandidoferreira/js-data-structures-playground#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
